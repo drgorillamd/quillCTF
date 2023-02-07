@@ -2,7 +2,7 @@
 pragma solidity 0.8.7;
 
 import { Test } from "forge-std/Test.sol";
-import { IBoolGiver, TrueXOR  } from "../src/TrueXOR.sol";
+import { IBoolGiver, TrueXOR  } from "../src/TrueXor.sol";
 
 /**
  * @title   Answer to the TrueXor Challenge
