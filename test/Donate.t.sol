@@ -2,7 +2,7 @@
 pragma solidity 0.8.7;
 
 import "forge-std/Test.sol";
-import "../src/donate.sol";
+import "../src/Donate.sol";
 
 /**
  * @title   Answer to the Donate Challenge
